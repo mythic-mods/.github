@@ -1,1 +1,1 @@
-https://github.com/mythic-skyrim/.github/blob/main/profile/mythic-skyrim.png
+![alt text](https://github.com/mythic-skyrim/.github/blob/main/profile/mythic-skyrim.png?raw=true)
